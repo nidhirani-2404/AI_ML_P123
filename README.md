@@ -14,6 +14,12 @@
 
 ---
 
+## ⭐ **IMPORTANT: Additional Learning Resources**
+
+### **[📖 Access the Complete Google Doc with Detailed Notes and Examples](https://docs.google.com/document/d/1AJ_4KaZTWQm4HFPTUWuYNhNfQOPtuX2MdfmmHDFO2bE/edit?usp=sharing)**
+
+---
+
 ## 🗺️ Learning Roadmap
 
 ```mermaid
